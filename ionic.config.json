@@ -1,0 +1,8 @@
+{
+  "name": "KASNEB BAs APP",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "72fbc01b"
+}
